@@ -3,7 +3,7 @@
 # TRABAJO EN WOKWI DEL SEMAFORO
 -https://wokwi.com/projects/477419813686273025
 
-# PRRSUPUESTO
+# PRESUPUESTO
 - Arduino UNO R3-16U2 ($ 11.545,57)
 -Cable USB Tipo A-B ($ 2.642,09)
 -Protoboard 830 puntos ($ 4.988,83)
