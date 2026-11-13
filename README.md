@@ -1,4 +1,4 @@
-# Proyecto-sem-foro-Martina-Heredia-Valentin
+# Proyecto-sem-foro-Martina-Heredia-Valentin-Schoenfel
 
 # TRABAJO EN WOKWI DEL SEMAFORO
 -https://wokwi.com/projects/477419813686273025
